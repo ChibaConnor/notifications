@@ -1,6 +1,6 @@
 {
     "user": "ChibaConnor",
-    "repo": "Allday",
+    "repo": "notifications",
     "dependencies": [
         "Southclaws/samp-stdlib",
         "pawn-lang/YSI-Includes"
